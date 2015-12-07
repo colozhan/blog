@@ -1,1 +1,0 @@
-<?php exit;//a:3:{i:0;a:2:{s:3:"gid";i:5;s:5:"title";s:23:"No space left on device";}i:1;a:2:{s:3:"gid";i:3;s:5:"title";s:21:"随便传两张图片";}i:2;a:2:{s:3:"gid";i:2;s:5:"title";s:9:"开坑了";}}

@@ -1,1 +1,0 @@
-<?php exit;//a:2:{i:3;s:7:"my-wife";i:5;s:10:"inode_free";}
