@@ -20,7 +20,7 @@
 	&copy; 2015 <?php echo $blogname; ?>.
 	Powered by <a href="http://www.emlog.net" rel="external nofollow" target="_blank">Emlog</a>.
     Theme Modify by <a href="http://blog.thanatos.xyz" title="一个有点二，有点精分的攻城狮" target="_blank">Thanatos.Xyz</a>.
-        Version T.1447899892.
+        Version T.1449474815.
     <?php echo $icp; ?>
     <?php echo $footer_info; ?>
 </div>
