@@ -60,7 +60,7 @@ var XMLHttp = {
 					}
 				}
 			} catch(e) {
-				//alert('emria:error');
+				alert('emria:error');
 			}
 		}
 	}
