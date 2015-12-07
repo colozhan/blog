@@ -1,0 +1,1 @@
+<?php exit;//a:2:{i:3;a:3:{s:4:"name";s:6:"摄影";s:2:"id";s:1:"2";s:5:"alias";s:11:"Photography";}i:5;a:3:{s:4:"name";s:5:"linux";s:2:"id";s:1:"4";s:5:"alias";s:5:"linux";}}
